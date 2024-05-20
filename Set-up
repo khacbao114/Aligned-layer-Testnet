@@ -1,7 +1,0 @@
-Auto-install
-
-sudo apt install curl -y && wget https://nodesync.top/alignedlayer_auto && chmod +x alignedlayer_auto && ./alignedlayer_auto
-
-Add new wallet
-
-alignedlayerd keys add wallet
